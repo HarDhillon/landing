@@ -1,0 +1,16 @@
+.btn{
+  border: 1px solid #E3B9BC;
+  background-color: #B4A090;
+  padding: 6px 19px !important;
+  margin-top: 10px !important;
+  border-radius: 21px;
+  color: black;
+  font-size: 15px;
+  opacity: 0.8;
+  transition: opacity 0.5s;
+}
+
+.btn:hover{
+  cursor: pointer;
+  opacity: 1;
+}

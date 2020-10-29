@@ -1,0 +1,16 @@
+.container-footer{
+  min-width: 900px;
+  background-color: #40474F;
+  text-align: center;
+  padding: 40px;
+  font-size: 35px;
+}
+
+.fab{
+  color: black;
+}
+
+.container-footer p {
+  opacity: 0.6;
+  font-size: 10px;
+}
